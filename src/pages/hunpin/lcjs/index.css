@@ -1,0 +1,17 @@
+
+.lcjsBox {
+    width:95%;
+    margin:auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.lcjsBox div {
+    width:30%;
+    font-size: .14rem;
+    margin-top:.1rem
+}
+.lcjsBox div span {
+    color:red;
+    font-size: .12rem;
+}

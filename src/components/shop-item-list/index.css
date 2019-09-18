@@ -1,0 +1,20 @@
+.shopItemInfo {
+    width:100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.shopItemInfo div{
+    width:17%;
+    height:.9rem;
+    margin-top:.2rem;
+    /* background-color: pink; */
+}
+.shopItemInfo div img {
+    float: left;
+}
+.shopItemInfo h1 {
+    font-size:.14rem;
+    text-align: center;
+    margin-top: .7rem;
+}

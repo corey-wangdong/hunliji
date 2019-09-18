@@ -1,0 +1,12 @@
+.navTopBarItem {
+    position: fixed;
+    top:0;
+    width:100%;
+    height:.6rem;
+    display: flex;
+    font-size: .16rem;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom:1px solid #cccc;
+    background-color: #fff;
+}
